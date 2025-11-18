@@ -1,6 +1,6 @@
 # NativeWallet
 
-NativeWallet is a simple, mobile-first personal finance application designed to help you track your income and expenses with ease. It features a React Native (Expo) frontend and a Node.js (Express) backend, providing a complete solution for managing personal transactions.
+NativeWallet is a simple, mobile-first personal finance application designed to help you track your income and expenses with ease. It features a React Native (Expo) frontend and a Node.js (Express) backend, providing a complete solution for managing personal transactions. This project is not my personal invention and can be found to duplicate yourself with a few of the simple technologies listed and commonly used assets if you just want to quickly put it together for your own practice!
 
 ## Features
 
